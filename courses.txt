@@ -1,4 +1,4 @@
-Python
-Data Structures
+Python Programming
+Data Structures and Algorithms
 Database Management System
-Computer Networks
+Computer Networks and Security
