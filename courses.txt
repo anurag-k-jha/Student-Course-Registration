@@ -1,4 +1,4 @@
-Python Advanced
+Python for Data Science
 Data Structures and Algorithms
 Database Management System
 Computer Networks and Security
